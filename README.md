@@ -6,7 +6,7 @@ development.
 related to beginner level JavaScript or web dev
 Languages.
 
-- 📫 How to reach me on discord tigeryash#6969
+- 📫 How to reach me on discord tigeryash#9118
 
 <!---
 tigeryash/tigeryash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
