@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @tigeryash
 - 👀 I’m interested in learning about web 
 development.
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Nextjs 
 - 💞️ I’m looking to collaborate on anything 
-related to beginner level JavaScript or web dev
+related to Reactjs or web dev
 Languages.
 
-- 📫 How to reach me on discord tigeryash#9118
+- 📫 How to reach me on discord tigeryash
 
 <!---
 tigeryash/tigeryash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
