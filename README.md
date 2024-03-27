@@ -3,8 +3,7 @@
 development.
 - 🌱 I’m currently learning Nextjs 
 - 💞️ I’m looking to collaborate on anything 
-related to Reactjs or web dev
-Languages.
+related to FrontEnd Web Development.
 
 - 📫 How to reach me on discord tigeryash
 
